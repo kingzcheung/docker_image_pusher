@@ -1,1 +1,1 @@
-docker_name
+pytorch/pytorch
