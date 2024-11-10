@@ -1,1 +1,1 @@
-alpine:latest
+pytorch/pytorch
